@@ -17,8 +17,8 @@ Our focus is on Free and Open Source software, whether you are a student, educat
 We would normally write this on the upcoming (maybe) website. 
 
 However, for TL;DR: 
-* We do not track anyone's data (because we do not care about them),
-* Crash reposts are send manually or submitted on forums
+* We do not track anyone's data (because we do not need them),
+* Crash reposts are send manually or on forums/social media 
 * More will be displayed on the website
 
 *Note: Documentation and website are currently under active development.*
