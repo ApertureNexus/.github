@@ -23,6 +23,6 @@ However, for TL;DR:
 
 *Note: Documentation and website are currently under active development.*
 
-*PS: The logo is just an average aperture camera, not affiliated with Valve Corporation*
+*Another Note: The logo is just an average aperture camera, not affiliated with Valve Corporation. Neither the name*
 
 *PS (Second): Join the discord server for any questions, there is **no** LinkedIn, Slack or whatever*
