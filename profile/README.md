@@ -25,4 +25,4 @@ However, for TL;DR:
 
 *Another Note: The logo is just an average aperture camera, not affiliated with Valve Corporation. Neither the name*
 
-*PS (Second): Join the discord server for any questions, there is **no** LinkedIn, Slack or whatever*
+*PS: Join the discord server for any questions, there is **no** LinkedIn, Slack or whatever*
